@@ -134,6 +134,7 @@
   }
   .header .container .header__menu .menu__logo {
     text-align: center;
+    margin-left: 70px;
   }
   .header .container .header__menu .menu__navbar {
     display: none;
