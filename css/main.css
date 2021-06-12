@@ -338,6 +338,10 @@
   background-color: #FCB72B;
 }
 
+.services .container .services__blog .box__item .box__image {
+  width: 70%;
+}
+
 .services .container .services__blog .box__title {
   width: 445px;
   font-style: normal;
